@@ -605,10 +605,6 @@ Prefab:
       propertyPath: m_enableMotionTracking
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 11476464, guid: ff519ec4bed0442dc9bf3a21a9777c4d, type: 2}
-      propertyPath: m_drawDefaultUXExceptions
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 11400006, guid: ff519ec4bed0442dc9bf3a21a9777c4d, type: 2}
       propertyPath: m_adjustScreenResolution
       value: 0
